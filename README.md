@@ -3,7 +3,7 @@
 If you're applying for an Android development position at BJS Home Delivery then this is the repo for you!
 
 ### Instructions
-Your mission, should you choose to accept it, is to show Post titles as postId and comments with email and body in a Recycler view. The post and comments should be retrieved from [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/). The project already contains a base URL (the one above!) and endpoint URLs for this task.
+Your mission, should you choose to accept it, is to show Post titles as postId, Post image will be any random color changing for every post and comments with email and body in a Recycler view. The post and comments should be retrieved from [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/). The project already contains a base URL (the one above!) and endpoint URLs for this task.
 
 BUSINESS REQUIREMENTS:
 - Remove all occurances of the letter "q" and "a" (case-insensitive) from comments body
