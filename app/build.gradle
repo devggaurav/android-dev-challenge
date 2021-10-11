@@ -18,7 +18,7 @@ android {
         buildConfigField("String", "BASE_URL", "\"https://jsonplaceholder.typicode.com\"")
         buildConfigField("String", "ALBUM_ENDPOINT_URL", "\"https://jsonplaceholder.typicode.com/albums\"")
         buildConfigField("String", "ALBUM_ART_ENDPOINT_URL", "\"https://jsonplaceholder.typicode.com/photos\"")
-
+        buildConfigField("String", "POST_COMMENTS_ENDPOINT_URL", "\"https://jsonplaceholder.typicode.com/comments\"")
 
     }
 

@@ -3,10 +3,10 @@
 If you're applying for an Android development position at BJS Home Delivery then this is the repo for you!
 
 ### Instructions
-Your mission, should you choose to accept it, is to show album titles and images in a Recycler view. The album title and images should be retrieved from [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/). The project already contains a base URL (the one above!) and endpoint URLs for this task.
+Your mission, should you choose to accept it, is to show Post titles as postId and comments with email and body in a Recycler view. The post and comments should be retrieved from [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/). The project already contains a base URL (the one above!) and endpoint URLs for this task.
 
 BUSINESS REQUIREMENTS:
-- Remove all occurances of the letter "e" (case-insensitive) from album titles
+- Remove all occurances of the letter "q" and "a" (case-insensitive) from comments body
 
 You are free to change *anything* about the current code so long as you accomplish this goal. Make it read and function the way you want it to, but bear in mind we’re looking for people who understand what best industry practices look like in Kotlin.
 
